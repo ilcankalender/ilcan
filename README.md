@@ -23,6 +23,6 @@
 
 ##keep in touch
 
-LinkedIn(https://www.linkedin.com/in/ilcankalender/))]
+(https://www.linkedin.com/in/ilcankalender/)
 
-mailto:ilcankalender@gmail.com
+ilcankalender@gmail.com
